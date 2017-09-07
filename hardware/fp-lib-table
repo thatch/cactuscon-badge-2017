@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CactusCon)(type KiCad)(uri ${KIPRJMOD}/../CactusCon.pretty)(options "")(descr ""))
+)

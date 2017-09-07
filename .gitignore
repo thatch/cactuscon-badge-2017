@@ -1,0 +1,16 @@
+.*.sw[op]
+*.py[co]
+*~
+
+*.bak
+*.bck
+*.kicad_pcb-bak
+
+*.net
+*.xml
+*.csv
+.DS_Store
+
+*-fab.zip
+plot
+*_fab
