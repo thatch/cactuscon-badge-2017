@@ -1,4 +1,4 @@
-update=Wed 06 Sep 2017 11:43:53 PM PDT
+update=Tue 12 Sep 2017 10:46:16 PM PDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=switches
 LibName31=cactus_badge_2017
+LibName32=../makerspace-partsbin/electronics/_kicad_library/zeropin
